@@ -1,0 +1,4 @@
+dao\UserDAO.class
+util\JPAUtil.class
+controller\RegistratorServlet.class
+model\User.class
