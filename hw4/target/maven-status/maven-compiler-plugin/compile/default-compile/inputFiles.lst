@@ -1,4 +1,13 @@
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\AttendeeListServlet.java
 c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\RegistratorServlet.java
-c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\model\User.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\dao\EventDAO.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\DeleteEventServlet.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\AddAttendeeServlet.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\model\Attendee.java
 c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\util\JPAUtil.java
 c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\dao\UserDAO.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\dao\AttendeeDAO.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\model\Event.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\model\User.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\AddEventServlet.java
+c:\Users\ADMIN-PC\Desktop\jsp_hw\hw4\src\main\java\controller\EventListServlet.java

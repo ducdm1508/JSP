@@ -1,4 +1,13 @@
-dao\UserDAO.class
-util\JPAUtil.class
+dao\EventDAO.class
 controller\RegistratorServlet.class
+model\Attendee.class
+model\Event.class
+controller\AddAttendeeServlet.class
+dao\AttendeeDAO.class
+controller\AttendeeListServlet.class
+util\JPAUtil.class
+controller\EventListServlet.class
+dao\UserDAO.class
+controller\AddEventServlet.class
 model\User.class
+controller\DeleteEventServlet.class
