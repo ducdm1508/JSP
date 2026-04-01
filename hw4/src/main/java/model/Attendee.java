@@ -13,7 +13,6 @@ public class Attendee {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    // 🔹 Quan hệ ManyToOne với Event
     @ManyToOne
     @JoinColumn(name = "event_id", nullable = false)
     private Event event;
@@ -26,18 +25,17 @@ public class Attendee {
     @Email(message = "Invalid email format")
     private String email;
 
-    // 🔹 Constructor rỗng (bắt buộc cho JPA)
     public Attendee() {
     }
 
-    // 🔹 Constructor đầy đủ
+  
     public Attendee(Event event, String name, String email) {
         this.event = event;
         this.name = name;
         this.email = email;
     }
 
-    // 🔹 Getter & Setter
+    
     public int getId() {
         return id;
     }
@@ -73,14 +71,5 @@ public class Attendee {
         this.email = email;
     }
 
-    // 🔹 toString (debug)
-    @Override
-    public String toString() {
-        return "Attendee{" +
-                "id=" + id +
-                ", event=" + (event != null ? event.getId() : "null") +
-                ", name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                '}';
-    }
+
 }

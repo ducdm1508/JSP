@@ -1,0 +1,11 @@
+controller\LoginServlet.class
+controller\InsertBookServlet.class
+util\JPAUtil.class
+dao\BookDAO.class
+model\Category.class
+model\Book.class
+dao\UserDAO.class
+dao\CategoryDAO.class
+controller\BookServlet.class
+controller\RegisterServlet.class
+model\User.class

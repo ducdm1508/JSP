@@ -1,7 +1,7 @@
 package dao;
 
 import model.Attendee;
-import model.Event;
+
 import util.JPAUtil;
 
 import javax.persistence.EntityManager;
