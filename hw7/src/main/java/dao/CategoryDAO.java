@@ -23,4 +23,9 @@ public class CategoryDAO {
             em.close();
         }
     }
+
+    public Object getAll() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getAll'");
+    }
 }
