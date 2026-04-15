@@ -1,0 +1,10 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="5.0">
+<servlet>
+<servlet-name>exam</servlet-name>
+<servlet-class>com.app.servlet.ExamServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>exam</servlet-name>
+<url-pattern>/exam</url-pattern>
+</servlet-mapping>
+</web-app>

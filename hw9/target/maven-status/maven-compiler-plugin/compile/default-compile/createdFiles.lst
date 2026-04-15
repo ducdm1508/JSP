@@ -1,3 +1,9 @@
+dao\GroupDAO.class
 dao\TicketDAO.class
+dao\ContactDAO.class
 controller\TicketServlet.class
+model\Contact.class
+model\ContactGroup.class
 model\Ticket.class
+controller\ContactServlet.class
+controller\GroupServlet.class
